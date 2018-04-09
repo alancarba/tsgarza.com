@@ -130,7 +130,42 @@
 			</div>
 		</div>
 	</section>
-	<section id="topContacto"></section>
+	<section id="sucursales">
+		<div class="container" id="containerSucursales">
+			<div class="row">
+				<div class="col-sm-2 offset-sm-1" >
+					<div class="flex">
+						<h3>CANCÚN</h3>
+						<h4><br/>(998) 206-3254</h4>
+					</div>
+				</div>
+				<div class="col-sm-2">
+					<div class="flex">
+						<h3>TIJUANA</h3>
+						<h4><br/>(664) 615-8035</h4>
+					</div>
+				</div>
+				<div class="col-sm-2">
+					<div class="flex">
+						<h3>GUADALAJARA</h3>
+						<h4><br/>(664) 615-8035</h4>
+					</div>
+				</div>
+				<div class="col-sm-2">
+					<div class="flex">
+						<h3>MONTERREY</h3>
+						<h4><br/>(664) 615-8035</h4>
+					</div>
+				</div>
+				<div class="col-sm-2">
+					<div class="flex">
+						<h3>MÉXICO D.F.</h3>
+						<h4><br/>(664) 615-8035</h4>
+					</div>
+				</div>
+			</div>
+		</div>
+	</section>
 	<section id="contacto">
 		<div class="container" id="containerContacto">
 			<div class="row">
@@ -234,10 +269,12 @@
 		</div>
 	</section>
 	<section id="bottomFooter">
-		<div class="row">
-			<div class="col-sm-12">
-				<div class="flex">
-					<h4>Copyright - TS & DE LA GARZA Consultores</h4>
+		<div class="container">
+			<div class="row">
+				<div class="col-sm-12">
+					<div class="flex">
+						<h4>Copyright - TS & DE LA GARZA Consultores</h4>
+					</div>
 				</div>
 			</div>
 		</div>
